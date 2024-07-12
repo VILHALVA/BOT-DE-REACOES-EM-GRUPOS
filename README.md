@@ -1,10 +1,10 @@
 # BOT DE REACOES EM GRUPOS 03
 🛑ESTE BOT TELEGRAM É PROJETADO PARA REAGIR A MENSAGENS COM EMOJIS BASEADOS EM COMANDOS DEFINIDOS PELO USUÁRIO.
 
-<img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_03.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_04.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Este bot Telegram é projetado para reagir a mensagens com emojis baseados em comandos definidos pelo usuário. Ele permite uma fácil customização dos comandos e das reações através de um arquivo JSON (`REACOES.json`). O objetivo principal é fornecer uma interface simples para adicionar novos comandos e reações sem a necessidade de modificar o código principal do bot.
